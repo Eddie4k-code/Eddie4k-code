@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward O'Connor</h1>
-<h3 align="center">I am a Software Engineer primarily focused in Backend and Automation.</h3>
+<h3 align="center">I am a Software Engineer primarily focused in Backend, DevOps, and Automation.</h3>
 
 - 📫 How to reach me **edwardoc@buffalo.edu**
 
